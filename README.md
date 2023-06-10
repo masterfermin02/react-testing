@@ -13,6 +13,7 @@
   </p>
 </p>
 
+### Slideshow presentation
 [Slideshow](https://docs.google.com/presentation/d/1gC_HZ6WA1Pxu_-G8CKm7n8Hqg6tJffI-NJP4W14weaY/edit?usp=sharing).
 
 # Getting Started with Create React App
