@@ -10,7 +10,7 @@
   <strong>This is a sample app for the DigitalOcean article: "How to Test a React App with Jest and React Testing Library"</strong>
     <br />
     <br />
-    <a href="https://doggy-directory-app-6bm2f.ondigitalocean.app/">View Demo 🏗️</a>
+    [Slideshow](https://docs.google.com/presentation/d/1gC_HZ6WA1Pxu_-G8CKm7n8Hqg6tJffI-NJP4W14weaY/edit?usp=sharing).
   </p>
 </p>
 
@@ -44,4 +44,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
